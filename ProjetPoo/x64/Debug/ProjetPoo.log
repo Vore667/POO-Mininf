@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : L'accès au chemin d'accès 'c:\users\arthu\source\repos\projetpoo\x64\debug\projetpoo.exe' est refusé.
+  FormClient.cpp
+  FormCommandes.cpp
+  FormStatistiques.cpp
+  FormStock.cpp
+  MyForm.cpp
+  FormPersonnel.cpp
+  MyUserControlInsert.cpp
+  MyUserControlSelect.cpp
+  sqlConn.cpp
+  sqlFunction.cpp
+  sqlMap.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Génération de code en cours...
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'C:\Users\arthu\source\repos\ProjetPoo\x64\Debug\ProjetPoo.exe'
